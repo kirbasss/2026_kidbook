@@ -462,3 +462,33 @@
   "wikidata_id": "Q189118",
   "author": "Савинов Никита"
 }
+{
+  "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/23_hippocampus.md",
+  "description": "Структура мозга, участвующая в формировании памяти и ориентации в пространстве.",
+  "lemmas": [
+    "гиппокамп",
+    "память мозг",
+    "пространственная память",
+    "навигация мозг",
+    "клетки места"
+  ],
+  "name": "Гиппокамп",
+  "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/23_hippocampus.md",
+  "wikidata_id": "Q48360",
+  "author": "Савинов Никита"
+}
+{
+  "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/24_forgetting_curve.md",
+  "description": "Модель, показывающая, как быстро информация забывается без повторения, и как интервальное повторение помогает её сохранить.",
+  "lemmas": [
+    "кривая забывания",
+    "интервальное повторение",
+    "запоминание",
+    "обучение память",
+    "повторение материал"
+  ],
+  "name": "Кривая забывания",
+  "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/24_forgetting_curve.md",
+  "wikidata_id": "Q843231",
+  "author": "Савинов Никита"
+}
