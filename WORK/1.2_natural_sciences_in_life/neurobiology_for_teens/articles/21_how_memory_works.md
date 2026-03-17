@@ -112,7 +112,7 @@
 ---
 
 <p align="center">
-  <img src="../images/memory_sleep_consolidation.png" width="550"><br>
+  <img src="../images/memory_sleep_consolidation.png" width="800"><br>
   <em>Во время сна мозг помогает закрепить воспоминания</em>
 </p>
 
