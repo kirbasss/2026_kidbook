@@ -83,7 +83,7 @@
 Результат будет намного лучше.
 
 <p align="center">
-  <img src="../images/forgetting_curve_3.png" width="800"/>
+  <img src="../images/forgetting_curve_3.png" width="500"/>
 </p>
 
 ## Почему это важно
