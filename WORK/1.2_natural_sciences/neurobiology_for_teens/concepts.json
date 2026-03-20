@@ -11,7 +11,7 @@
   ],
   "concepts": [
     {
-      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/01_brain_complexity",
+      "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/01_brain_complexity",
       "description": "Вводная статья о мозге как одном из самых сложных объектов, известных человеку: что делает мозг, как работают нейроны, почему между ними так важны связи, зачем мозгу нужно много энергии и как обучение меняет нервную систему.",
       "lemmas": [
         "мозг",
@@ -30,12 +30,12 @@
         "эмоции"
       ],
       "name": "Мозг — самый сложный объект во Вселенной?",
-      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/01_brain_complexity.md",
+      "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/01_brain_complexity.md",
       "wikidata_id": "Q492038",
       "author": "Кунавин Кирилл"
     },
     {
-      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/02_neuron_main_cell",
+      "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/02_neuron_main_cell",
       "description": "Статья о нейроне как главной клетке нервной системы: из каких частей он состоит, как передаёт электрические и химические сигналы, что такое аксон, дендриты и синапс, и почему нейроны так важны для мышления, памяти, движений и обучения.",
       "lemmas": [
         "нейрон",
@@ -54,12 +54,12 @@
         "мышление"
       ],
       "name": "Нейрон — главная клетка мозга",
-      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/02_neuron_main_cell.md",
+      "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/02_neuron_main_cell.md",
       "wikidata_id": "Q43054",
       "author": "Кунавин Кирилл"
     },
     {
-      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/03_nervous_system_map",
+      "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/03_nervous_system_map",
       "description": "Статья о том, как устроена нервная система человека: что входит в центральную и периферическую нервную систему, как связаны мозг, спинной мозг и нервы, и почему спинной мозг так важен для передачи сигналов и рефлексов.",
       "lemmas": [
         "нервная система",
@@ -78,12 +78,12 @@
         "реакция на опасность"
       ],
       "name": "Карта нервной системы",
-      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/03_nervous_system_map.md",
+      "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/03_nervous_system_map.md",
       "wikidata_id": "Q11392181",
       "author": "Кунавин Кирилл"
     },
     {
-      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/04_main_parts_of_the_brain",
+      "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/04_main_parts_of_the_brain",
       "description": "Статья о главных отделах мозга и их функциях: что делает кора мозга, за что отвечают лобные, теменные, височные и затылочные доли, какую роль играют мозжечок и ствол мозга и почему мозг работает как единая система.",
       "lemmas": [
         "отделы мозга",
@@ -102,12 +102,12 @@
         "мышление"
       ],
       "name": "Главные отделы мозга: кто за что отвечает",
-      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/04_main_parts_of_the_brain.md",
+      "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/04_main_parts_of_the_brain.md",
       "wikidata_id": "Q22999251",
       "author": "Кунавин Кирилл"
     },
     {
-      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/05_teen_brain",
+      "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/05_teen_brain",
       "description": "Статья о том, как развивается мозг подростка: почему в этом возрасте сильнее эмоции, зачем так важна префронтальная кора, почему подростки чаще рискуют, зависят от мнения сверстников и особенно нуждаются во сне.",
       "lemmas": [
         "мозг подростка",
@@ -126,12 +126,12 @@
         "обучение"
       ],
       "name": "Мозг подростка",
-      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/05_teen_brain.md",
+      "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/05_teen_brain.md",
       "wikidata_id": "Q28272888",
       "author": "Кунавин Кирилл"
     },
     {
-      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/06_phineas_gage",
+      "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/06_phineas_gage",
       "description": "Статья об истории Финеаса Гейджа и о том, что его травма показала учёным: лобные доли мозга связаны с самоконтролем, принятием решений, социальным поведением и особенностями личности.",
       "lemmas": [
         "Финеас Гейдж",
@@ -150,12 +150,12 @@
         "изменение личности"
       ],
       "name": "Как один железный прут изменил личность человека",
-      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/06_phineas_gage.md",
+      "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/06_phineas_gage.md",
       "wikidata_id": "Q316742",
       "author": "Кунавин Кирилл"
     },
     {
-      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/07_stress",
+      "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/07_stress",
       "description": "Статья о стрессе как древней системе выживания: как работают адреналин и кортизол, что такое реакция «бей, беги или замри», когда стресс полезен и когда становится проблемой, и почему подростки особенно чувствительны к стрессу.",
       "lemmas": [
         "стресс",
@@ -173,12 +173,12 @@
         "подростковый стресс"
       ],
       "name": "Стресс: древняя система выживания",
-      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/07_stress.md",
+      "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/07_stress.md",
       "wikidata_id": "Q27725976",
       "author": "Скрипов Максим"
     },
     {
-      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/08_hunger",
+      "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/08_hunger",
       "description": "Статья о том, как мозг управляет чувством голода: роль гипоталамуса, гормоны грелин и лептин, почему голод — это не только про желудок, и как привычки, эмоции и уровень глюкозы влияют на аппетит.",
       "lemmas": [
         "голод",
@@ -195,12 +195,12 @@
         "энергия"
       ],
       "name": "Кто включает чувство голода",
-      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/08_hunger.md",
+      "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/08_hunger.md",
       "wikidata_id": "Q52294801",
       "author": "Скрипов Максим"
     },
     {
-      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/09_sleep",
+      "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/09_sleep",
       "description": "Статья о том, зачем нужен сон: циркадные ритмы и мелатонин, фазы медленного и быстрого сна, роль сна в закреплении памяти, сновидения, особенности подросткового сна и последствия недосыпа.",
       "lemmas": [
         "сон",
@@ -218,12 +218,12 @@
         "биологические часы"
       ],
       "name": "Зачем нам нужен сон",
-      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/09_sleep.md",
+      "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/09_sleep.md",
       "wikidata_id": "Q36806073",
       "author": "Скрипов Максим"
     },
     {
-      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/10_sweet_tooth",
+      "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/10_sweet_tooth",
       "description": "Статья о том, почему мозг так любит сладкое: глюкоза как главное топливо мозга, эволюционные причины тяги к сахару, связь сладкого вкуса с системой вознаграждения и дофамином, сахарные качели и влияние на настроение.",
       "lemmas": [
         "сладкое",
@@ -240,12 +240,12 @@
         "настроение"
       ],
       "name": "Почему мы так любим сладкое",
-      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/10_sweet_tooth.md",
+      "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/10_sweet_tooth.md",
       "wikidata_id": "Q38833475",
       "author": "Скрипов Максим"
     },
     {
-      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/11_reward_system",
+      "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/11_reward_system",
       "description": "Статья о системе вознаграждения мозга: роль дофамина в мотивации и ожидании награды, ключевые структуры (VTA, прилежащее ядро, базальные ганглии), формирование привычек, привыкание к наградам и особенности работы у подростков.",
       "lemmas": [
         "система вознаграждения",
@@ -263,12 +263,12 @@
         "подростковая мотивация"
       ],
       "name": "Система вознаграждения",
-      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/11_reward_system.md",
+      "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/11_reward_system.md",
       "wikidata_id": "Q670713",
       "author": "Скрипов Максим"
     },
     {
-      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/12_lazy_brain",
+      "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/12_lazy_brain",
       "description": "Статья о том, почему мозг склонен лениться: экономия энергии, дофамин и выбор между быстрой и отложенной наградой, прокрастинация как результат работы системы мотивации, и приёмы, которые помогают начать.",
       "lemmas": [
         "лень",
@@ -285,12 +285,12 @@
         "отложенная награда"
       ],
       "name": "Почему мозг ленится",
-      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/12_lazy_brain.md",
+      "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/12_lazy_brain.md",
       "wikidata_id": "Q330104",
       "author": "Скрипов Максим"
     },
     {
-      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/13_nicotine",
+      "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/13_nicotine",
       "description": "Статья о том, как никотин обманывает мозг: маленькая молекула проникает через гематоэнцефалический барьер, притворяется ацетилхолином, вызывает выброс дофамина и формирует зависимость, особенно опасную для подросткового мозга.",
       "lemmas": [
         "никотин",
@@ -308,12 +308,12 @@
         "подростковый мозг"
       ],
       "name": "Как никотин обманывает мозг",
-      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/13_nicotine.md",
+      "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/13_nicotine.md",
       "wikidata_id": "Q35621339",
       "author": "Скрипов Максим"
     },
     {
-        "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/14_amygdala_fear",
+        "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/14_amygdala_fear",
         "description": "О роли амигдалы в распознавании угроз, формировании страха и запуске реакции «бей, беги или замри», а также о пациентке S.M., которая почти не испытывала страха из-за повреждения амигдалы.",
         "lemmas": [
         "амигдала",
@@ -331,12 +331,12 @@
         "ложная тревога"
         ],
         "name": "Амигдала — центр страха",
-        "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/14_amygdala_fear.md",
+        "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/14_amygdala_fear.md",
         "wikidata_id": "Q338924",
         "author": "Арусланов Кирилл"
     },
     {
-    "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/15_empathy",
+    "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/15_empathy",
     "description": "О нейробиологии эмпатии, механизмах распознавания чужих эмоций и боли, роли зеркальных нейронов, амигдалы, островковой и префронтальной коры, а также о том, как мозг учится понимать состояние другого человека.",
     "lemmas": [
         "эмпатия",
@@ -364,12 +364,12 @@
         "нейробиология эмпатии"
     ],
     "name": "Почему мы чувствуем эмпатию",
-    "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/15_empathy.md",
+    "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/15_empathy.md",
     "wikidata_id": "Q33421851",
     "author": "Арусланов Кирилл"
     },
     {
-    "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/16_love_chemistry",
+    "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/16_love_chemistry",
     "description": "О нейробиологии влюблённости как особого состояния мозга, роли дофамина, норадреналина и серотонина, механизмах мотивации и навязчивых мыслей, а также о том, почему любовь влияет на восприятие боли, поведение и переживание расставания.",
     "lemmas": [
         "влюблённость",
@@ -400,12 +400,12 @@
         "ожидание"
     ],
     "name": "Влюблённость — элегантная химия",
-    "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/16_love_chemistry.md",
+    "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/16_love_chemistry.md",
     "wikidata_id": "Q48450953",
     "author": "Арусланов Кирилл"
     },
     {
-    "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/17_hugs_oxytocin",
+    "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/17_hugs_oxytocin",
     "description": "О нейробиологии прикосновения и объятий, роли окситоцина в формировании доверия и привязанности, влиянии социальных контактов на стресс и эмоциональное состояние, а также о том, почему безопасная близость важна для человека.",
     "lemmas": [
         "объятия",
@@ -433,12 +433,12 @@
         "чувство связи"
     ],
     "name": "Почему объятия делают нас счастливее",
-    "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/17_hugs_oxytocin.md",
+    "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/17_hugs_oxytocin.md",
     "wikidata_id": "Q169960",
     "author": "Арусланов Кирилл"
     },
     {
-    "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/18_music_chills",
+    "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/18_music_chills",
     "description": "О нейробиологии восприятия музыки, механизмах возникновения мурашек, роли слуховой коры, предсказаний мозга и системы вознаграждения, а также о том, почему музыка вызывает сильные эмоции и почему некоторые люди почти не получают от неё удовольствия.",
     "lemmas": [
         "музыка",
@@ -466,12 +466,12 @@
         "память"
     ],
     "name": "Почему музыка вызывает мурашки",
-    "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/18_music_chills.md",
+    "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/18_music_chills.md",
     "wikidata_id": "Q30363944",
     "author": "Арусланов Кирилл"
     },
     {
-    "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/19_curiosity",
+    "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/19_curiosity",
     "description": "О нейробиологии любопытства как механизма исследования мира, роли дофамина в поиске информации, связи любопытства с обучением и памятью, а также о том, почему мозг особенно сильно реагирует на информационные пробелы, загадки и спойлеры.",
     "lemmas": [
         "любопытство",
@@ -497,12 +497,12 @@
         "когнитивный интерес"
     ],
     "name": "Любопытство как двигатель исследования",
-    "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/19_curiosity.md",
+    "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/19_curiosity.md",
     "wikidata_id": "Q101958785",
     "author": "Арусланов Кирилл"
     },
     {
-    "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/20_sadness",
+    "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/20_sadness",
     "description": "О нейробиологии грусти как нормальной эмоции, её связи с потерей, социальной болью, слезами и адаптивной ролью, а также о том, чем грусть отличается от депрессии.",
     "lemmas": [
         "грусть",
@@ -526,12 +526,12 @@
         "переживание утраты"
     ],
     "name": "Почему нам бывает грустно",
-    "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/20_sadness.md",
+    "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/20_sadness.md",
     "wikidata_id": "Q169251",
     "author": "Арусланов Кирилл"
     },
     {
-      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/21_how_memory_works",
+      "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/21_how_memory_works",
       "description": "О том, как устроена память: различия между кратковременной и долговременной памятью, как происходит консолидация воспоминаний, почему мы забываем и какую роль играют сон и эмоции в запоминании.",
       "lemmas": [
         "память",
@@ -549,12 +549,12 @@
         "эмоции и память"
       ],
       "name": "Устройство памяти — как мозг хранит воспоминания",
-      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/21_how_memory_works.md",
+      "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/21_how_memory_works.md",
       "wikidata_id": "Q15764599",
       "author": "Савинов Никита"
     },
     {
-      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/22_neuroplasticity",
+      "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/22_neuroplasticity",
       "description": "Способность мозга изменяться, формируя и перестраивая нейронные связи в процессе обучения и опыта.",
       "lemmas": [
         "нейропластичность",
@@ -565,12 +565,12 @@
         "нейроны"
       ],
       "name": "Нейропластичность",
-      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/22_neuroplasticity.md",
+      "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/22_neuroplasticity.md",
       "wikidata_id": "Q849491",
       "author": "Савинов Никита"
     },
     {
-      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/23_hippocampus",
+      "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/23_hippocampus",
       "description": "Структура мозга, участвующая в формировании памяти и ориентации в пространстве.",
       "lemmas": [
         "гиппокамп",
@@ -580,12 +580,12 @@
         "клетки места"
       ],
       "name": "Гиппокамп",
-      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/23_hippocampus.md",
+      "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/23_hippocampus.md",
       "wikidata_id": "Q74363",
       "author": "Савинов Никита"
     },
     {
-      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/24_forgetting_curve",
+      "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/24_forgetting_curve",
       "description": "Модель, показывающая, как быстро информация забывается без повторения, и как интервальное повторение помогает её сохранить.",
       "lemmas": [
         "кривая забывания",
@@ -595,12 +595,12 @@
         "повторение материал"
       ],
       "name": "Кривая забывания",
-      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/24_forgetting_curve.md",
+      "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/24_forgetting_curve.md",
       "wikidata_id": "Q949167",
       "author": "Савинов Никита"
     },
     {
-      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/25_cognitive_biases",
+      "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/25_cognitive_biases",
       "description": "Статья о когнитивных искажениях: почему мозг систематически ошибается, как работают эвристики, примеры искажений (эффект подтверждения, эффект якоря, эффект толпы, иллюзия контроля) и почему знание об этом помогает мыслить критически.",
       "lemmas": [
         "когнитивные искажения",
@@ -616,12 +616,12 @@
         "слепое пятно предвзятости"
       ],
       "name": "Почему мозг иногда нас обманывает",
-      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/25_cognitive_biases.md",
+      "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/25_cognitive_biases.md",
       "wikidata_id": "Q1127759",
       "author": "Флоря Юлия"
     },
     {
-      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/26_optical_illusions",
+      "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/26_optical_illusions",
       "description": "Статья о зрительных иллюзиях: как устроено зрение, почему мозг интерпретирует изображение, а не копирует его, классические иллюзии (Мюллера-Лайера, треугольник Канижа, вращающаяся танцовщица), иллюзии цвета и движения.",
       "lemmas": [
         "зрительные иллюзии",
@@ -638,12 +638,12 @@
         "иллюзорный контур"
       ],
       "name": "Зрительные иллюзии: когда глаза видят одно, а мозг другое",
-      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/26_optical_illusions.md",
+      "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/26_optical_illusions.md",
       "wikidata_id": "Q46386499",
       "author": "Флоря Юлия"
     },
     {
-      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/27_brain_predicts",
+      "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/27_brain_predicts",
       "description": "Статья о предсказательной функции мозга: почему мозг достраивает реальность, парейдолия и поиск лиц в случайных объектах, как предсказания связаны с вниманием и эмоциями, и почему первое впечатление не всегда верно.",
       "lemmas": [
         "предсказания мозга",
@@ -659,12 +659,12 @@
         "нарушение ожидания"
       ],
       "name": "Почему мозг достраивает реальность",
-      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/27_brain_predicts.md",
+      "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/27_brain_predicts.md",
       "wikidata_id": "Q40206616",
       "author": "Флоря Юлия"
     },
     {
-      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/28_false_memories",
+      "id": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/28_false_memories",
       "description": "Статья о ложных воспоминаниях: почему память — это реконструкция, а не запись, как возникают ложные воспоминания через смешение источников, пересказы и наводящие вопросы, эксперимент Элизабет Лофтус и почему это важно понимать.",
       "lemmas": [
         "ложные воспоминания",
@@ -681,7 +681,7 @@
         "искажение памяти"
       ],
       "name": "Ложные воспоминания",
-      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/28_false_memories.md",
+      "file": "WEB/1.2_natural_sciences/neurobiology_for_teens/articles/28_false_memories.md",
       "wikidata_id": "Q56003568",
       "author": "Флоря Юлия"
     }
